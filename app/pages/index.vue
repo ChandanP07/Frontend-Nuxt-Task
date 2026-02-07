@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import EighthSection from '~/components/EighthSection.vue';
+
 
 </script>
 
@@ -10,4 +12,7 @@
   <FifthSection/>
   <SixthSection/>
   <SeventhSection/>
+  <EighthSection/>
+  <NinthSection/>
+  <FooterSection/>
 </template>
