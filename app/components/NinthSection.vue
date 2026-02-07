@@ -1,5 +1,5 @@
 <template>
-  <section class="h-[708px] w-full flex flex-col items-center justify-center bg-white px-4 font-inter">
+  <section class="hidden md:flex h-[708px] w-full flex-col items-center justify-center bg-white px-4 font-inter">
     
     <h2 class="text-[#1A1C3D] text-[36px] font-bold mb-16">
       Why Teams Use IntelliToggle
