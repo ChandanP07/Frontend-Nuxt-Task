@@ -22,7 +22,7 @@
             <button
               class=" h-[43px] font-inter font-bold text-[20px] bg-gradient-to-b from-[#42389E] to-[#0F1026] bg-clip-text text-transparent"
             >
-              LearnMore  &#8594;
+              Learn More  &#8594;
             </button>
           </div>
         </div>
