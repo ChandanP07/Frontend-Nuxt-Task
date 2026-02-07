@@ -6,9 +6,8 @@ A pixel-perfect recreation of the IntelliToggle homepage design using **Nuxt 3**
 
 ## Live Demo
 
-**Hosted URL**: [Your Vercel URL will go here after deployment]
+**Hosted URL**: `https://frontend-nuxt-task.vercel.app/`
 
-Example: `https://intellitoggle-frontend-assignment.vercel.app`
 
 ---
 
@@ -79,10 +78,10 @@ intellitoggle-frontend/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/intellitoggle-frontend-assignment.git
+git clone https://github.com/ChandanP07/Frontend-Nuxt-Task.git
 
 # Navigate to project directory
-cd intellitoggle-frontend-assignment
+cd Frontend-Nuxt-Task
 
 # Install dependencies
 npm install
@@ -218,58 +217,6 @@ Due to the **6-8 hour timebox**, the following tradeoffs were made:
    - **Impact**: Manual testing only
    - **Future Fix**: Add Vitest unit tests and Playwright E2E tests
 
-### Known Issues & Improvements
-
-#### Spacing Precision (~10-25px deviations)
-- Hero section top margin slightly less than design
-- Section padding/margins need fine-tuning across several sections
-- **Fix**: Create spacing utility constants matching Figma exactly
-
-#### Typography Fine-Tuning
-- Some heading font weights slightly bolder than design
-- Line-heights could be tighter in certain sections
-- **Fix**: Define typography scale in Tailwind config matching design system
-
-#### Component Sizing
-- Logo carousel icons could be 10-15% larger
-- Pricing card "$10" should be more prominent
-- Table row heights slightly taller than design
-- **Fix**: Adjust component sizing using design tokens
-
-#### Shadow Depths
-- Card shadows appear lighter than Figma
-- **Fix**: Define shadow scale in Tailwind config
-
-### What I Would Do With More Time
-
-**Phase 1: Refinement (Additional 2-3 hours)**
-- [ ] Audit all spacing values against Figma measurements
-- [ ] Fine-tune typography (sizes, weights, line-heights)
-- [ ] Enhance card shadows to match design depth
-- [ ] Load exact custom fonts
-- [ ] Add smooth scroll animations
-
-**Phase 2: Performance (Additional 2 hours)**
-- [ ] Implement lazy loading for images
-- [ ] Convert images to WebP/AVIF formats
-- [ ] Add skeleton loaders for content sections
-- [ ] Optimize bundle size with code splitting
-
-**Phase 3: Enhancement (Additional 3-4 hours)**
-- [ ] Advanced micro-interactions and animations
-- [ ] Comprehensive accessibility testing (WCAG AA/AAA)
-- [ ] Unit tests for components
-- [ ] E2E tests for critical user flows
-- [ ] Dark mode support
-
-**Phase 4: CMS Integration (Additional 4-5 hours)**
-- [ ] Set up Nuxt Content for markdown-based content
-- [ ] Create admin panel for content management
-- [ ] Dynamic pricing and feature toggles
-- [ ] Internationalization (i18n) support
-
----
-
 ## Testing
 
 ### Manual Testing Performed
@@ -327,9 +274,9 @@ Due to the **6-8 hour timebox**, the following tradeoffs were made:
 ##  Contact
 
 **Your Name**  
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@ChandanP07](https://github.com/ChandanP07)
+- Email: chandan019283@gmail.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/chandan-prajapati-359454223/)
 
 ---
 
@@ -348,4 +295,3 @@ This project was created for the IntelliToggle Frontend Developer Assignment.
 
 ---
 
-**Built with for IntelliToggle Frontend Assignment | February 2026**
