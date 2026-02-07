@@ -67,7 +67,7 @@ intellitoggle-frontend/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -160,7 +160,7 @@ See [`/pixelay/notes.md`](./pixelay/notes.md) for detailed comparison analysis.
 
 ---
 
-## 📊 Pixelay Design Comparison
+## Pixelay Design Comparison
 
 Design fidelity verification using Pixelay overlay technique:
 
